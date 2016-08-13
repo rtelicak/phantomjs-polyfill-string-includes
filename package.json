@@ -1,0 +1,22 @@
+{
+	"name": "phantomjs-polyfill-string-includes",
+	"version": "1.0.0",
+	"description": "Polyfill for String.prototype.includes",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:rtelicak/phantomjs-polyfill-string-includes.git"
+	},
+	"keywords": [
+		"phantomjs",
+		"string",
+		"includes",
+		"polyfill"
+	],
+	"author": "Roman Telicak <roman.telicak@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rtelicak/phantomjs-polyfill-string-includes/issues"
+	},
+	"homepage": "https://github.com/rtelicak/phantomjs-polyfill-string-includes"
+}
